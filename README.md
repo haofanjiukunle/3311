@@ -1,1 +1,2 @@
-curl -X POST http://localhost:80/path/to/33.txt
+#执行代码下方代码
+curl -X POST http://localhost:80/33.txt
